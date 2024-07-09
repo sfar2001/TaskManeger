@@ -1,5 +1,7 @@
 body {
   background-image: url('../public/depositphotos_606072142-stock-photo-space-background-nebula-stars-environment.jpg');
+  background-size: 100%;
+
 }
 
 #registration-form {
@@ -20,7 +22,7 @@ body {
 
 #registration-form legend {
   text-align: center;
-  background: #2c79cc;
+  background: #781c9f;
   width: 100%;
   padding: 30px 0;
   border-radius: 3px 3px 0 0;
